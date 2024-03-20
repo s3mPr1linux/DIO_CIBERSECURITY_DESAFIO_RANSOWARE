@@ -1,2 +1,2 @@
-# DIO_CIBERSECURITY_DESAFIO_RANSOWARE
-DIO_CIBERSECURITY_DESAFIO_RANSOWARE 
+# desafio-modulo2-cibersecurity
+Código para o desafio de projeto do Módulo 2 da trilha de Cibersegurança.
